@@ -15,15 +15,15 @@ Welcome to my portfolio repository! I'm Shaya Meyer, a front-end developer with 
 A React-based app that toggles between light and dark themes using `useContext` and React state.
 
 - **GitHub Repository**: [Theme Switcher](https://github.com/Shaya2024/portfolio/tree/main/ThemeSwitcher)
-- **Live Demo**: [Theme Switcher Live](https://your-live-demo-link.netlify.app)
+- **Live Demo**: [Theme Switcher Live](https://theme-switcher-lightdark.netlify.app/)
 
 ---
 
-### 2. **Temperature Converter**
-An app for changing displayed text depending on input temperature. Demonstrates how to lift state to be used in both components, celcius and farenheit
+### 2. **Boiling Level Checker Converter**
+An app for changing displayed text (whether or not water would boil) depending on input temperature. Demonstrates how to lift state to be used in both components, celcius and farenheit
 
 - **GitHub Repository**: [Temperature Converter](https://github.com/Shaya2024/portfolio/tree/main/TemperatureConverter)
-- **Live Demo**: [Temperature Converter Live](https://your-live-demo-link.netlify.app)
+- **Live Demo**: [Temperature Converter Live](https://boiler-checker.netlify.app/)
 
 ---
 
