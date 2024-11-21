@@ -31,7 +31,7 @@ An app for changing displayed text depending on input temperature. Demonstrates 
 A basic counter application built with React to demonstrate state management.
 
 - **GitHub Repository**: [Counter App](https://github.com/Shaya2024/portfolio/tree/main/CounterApp)
-- **Live Demo**: [Counter App Live](https://your-live-demo-link.netlify.app)
+- **Live Demo**: [Counter App Live](https://color-picker-counter.netlify.app/)
 
 
 ## Contact
