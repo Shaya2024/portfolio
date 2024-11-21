@@ -1,5 +1,5 @@
 # Shaya Meyer's Front-End Developer Portfolio
-Welcome to my portfolio repository! I'm Shaya Meyer, a front-end developer with a passion for creating user-friendly, responsive web applications. This portfolio showcases some of my best work as I continue my journey in web development.
+Welcome to my portfolio repository! This portfolio showcases some of my work as I continue my journey in web development.
 
 ## Technologies
 - **HTML5**
